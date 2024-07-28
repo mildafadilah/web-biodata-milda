@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+  }
+  body {
+    display: flek;
+    align-items: center;
+    justify-content: center;
+    font-family: Sans-Serif;
+    color: #444;
+    padding-top: 7vh;
+    padding-bottom: 20vh;
+  }
+  
+  .wreapper {
+    width: 400px;
+  }
+  
+  .photo {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 200px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
